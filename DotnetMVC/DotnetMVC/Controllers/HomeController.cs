@@ -23,6 +23,21 @@ namespace DotnetMVC.Controllers
             return View();
         }
 
+        public IActionResult OurBusiness()
+        {
+            return View();
+        }
+
+        public IActionResult News()
+        {
+            return View();
+        }
+
+        public IActionResult Career()
+        {
+            return View();
+        }
+
         public IActionResult ContactUs()
         {
             return View();
