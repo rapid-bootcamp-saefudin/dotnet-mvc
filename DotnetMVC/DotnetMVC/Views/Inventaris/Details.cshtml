@@ -1,29 +1,35 @@
-﻿@model ProductViewModel
+﻿@model InventarisViewModel
 
 @{
-    ViewData["Title"] = "Product Details";
+    ViewData["Title"] = "Inventaris Detail";
 }
 
-<h2>Product Detail</h2>
+<h2>Inventaris Detail</h2>
 <table class="table tab-content">
     <tbody>
         <tr>
             <th>ID</th>
             <td>@Model.Id</td>
         </tr>
+
         <tr>
             <th>Product Name</th>
-            <td>@Model.Name</td>
+            <td>@Model.ProductName</td>
         </tr>
 
         <tr>
             <th>Category</th>
             <td>@Model.Category</td>
         </tr>
+
         <tr>
-            <th>Price</th>
-            <td>@Model.Price</td>
+            <th>Brand</th>
+            <td>@Model.Brand</td>
+        </tr>
+
+        <tr>
+            <th>Stock</th>
+            <td>@Model.Stock</td>
         </tr>
     </tbody>
 </table>
-

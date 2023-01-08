@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\bootcamp\\.net\\bootcamp-project\\dotnet-mvc\\DotnetMVC\\DotnetMVC\\DotnetMVC.csproj": {}
+    "F:\\bootcamp\\.net\\bootcamp-project\\dotnet-mvc\\DotNetMVC\\DotnetMVC\\DotnetMVC.csproj": {}
   },
   "projects": {
-    "F:\\bootcamp\\.net\\bootcamp-project\\dotnet-mvc\\DotnetMVC\\DotnetMVC\\DotnetMVC.csproj": {
+    "F:\\bootcamp\\.net\\bootcamp-project\\dotnet-mvc\\DotNetMVC\\DotnetMVC\\DotnetMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\bootcamp\\.net\\bootcamp-project\\dotnet-mvc\\DotnetMVC\\DotnetMVC\\DotnetMVC.csproj",
+        "projectUniqueName": "F:\\bootcamp\\.net\\bootcamp-project\\dotnet-mvc\\DotNetMVC\\DotnetMVC\\DotnetMVC.csproj",
         "projectName": "DotnetMVC",
-        "projectPath": "F:\\bootcamp\\.net\\bootcamp-project\\dotnet-mvc\\DotnetMVC\\DotnetMVC\\DotnetMVC.csproj",
+        "projectPath": "F:\\bootcamp\\.net\\bootcamp-project\\dotnet-mvc\\DotNetMVC\\DotnetMVC\\DotnetMVC.csproj",
         "packagesPath": "C:\\Users\\muham\\.nuget\\packages\\",
-        "outputPath": "F:\\bootcamp\\.net\\bootcamp-project\\dotnet-mvc\\DotnetMVC\\DotnetMVC\\obj\\",
+        "outputPath": "F:\\bootcamp\\.net\\bootcamp-project\\dotnet-mvc\\DotNetMVC\\DotnetMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\muham\\AppData\\Roaming\\NuGet\\NuGet.Config",

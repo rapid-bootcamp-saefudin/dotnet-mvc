@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nF9o0Ns2x+mhuTVLtii5IvxQKnnX+Aw7YwlgSvPMhnO7WGveMVInE7Wf+KFxUHZpswKNmUbCPtGdfrmS6aJT8w==",
+  "dgSpecHash": "xAz2j3GfcQadBxWrUdZjEkCTuuOOqbyydrdIBxQO5ds649xLJTxRptByhK/fEIv/ZFXDO+0Xxsx8pla+0ZnVYg==",
   "success": true,
-  "projectFilePath": "F:\\bootcamp\\.net\\bootcamp-project\\dotnet-mvc\\DotnetMVC\\DotnetMVC\\DotnetMVC.csproj",
+  "projectFilePath": "F:\\bootcamp\\.net\\bootcamp-project\\dotnet-mvc\\DotNetMVC\\DotnetMVC\\DotnetMVC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
