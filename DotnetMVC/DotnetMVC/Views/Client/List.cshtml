@@ -1,0 +1,36 @@
+﻿@model List<ClientViewModel>
+@{
+    ViewData["Title"] = "Client List";
+}
+
+<h2>Client List</h2>
+<a asp-action="Edit" class="btn btn-sm btn-outline-success mt-2 mb-2">Add New Client</a>
+<table class="table table-responsive">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Client Name</th>
+            <th>Client Email</th>
+            <th>Gender</th>
+            <th>Company Name</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.ClientName</td>
+                <td>@item.ClientEmail</td>
+                <td>@item.Gender</td>
+                <td>@item.CompanyName</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning">Edit</a>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-primary">View</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,42 @@
+﻿@model ClientViewModel
+
+@{
+    ViewData["Title"] = "Client Add Data";
+}
+
+<h2>Form Add Client</h2>
+
+<form asp-action="Save" method="post">
+    <div class="form-group">
+        <label asp-for="Id">Client ID</label>
+        <input asp-for="Id" class="form-control">
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ClientName">Client Name</label>
+        <input asp-for="ClientName" class="form-control">
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ClientEmail">Client Email</label>
+        <input asp-for="ClientEmail" class="form-control">
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Gender">Gender</label>
+        <input asp-for="Gender" class="form-control">
+    </div>
+
+    <div class="form-group">
+        <label asp-for="CompanyName">Company Name</label>
+        <input asp-for="CompanyName" class="form-control">
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-2 mb-2">Submit</button>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

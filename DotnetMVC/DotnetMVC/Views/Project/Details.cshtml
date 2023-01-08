@@ -1,0 +1,25 @@
+﻿@model ProjectViewModel
+
+@{
+    ViewData["Title"] = "Project Detail";
+}
+
+<h2>Project Detail</h2>
+<table class="table tab-content">
+    <tbody>
+        <tr>
+            <th>ID</th>
+            <td>@Model.Id</td>
+        </tr>
+
+        <tr>
+            <th>Project Name</th>
+            <td>@Model.ProjectName</td>
+        </tr>
+
+        <tr>
+            <th>Status</th>
+            <td>@Model.Status</td>
+        </tr>
+    </tbody>
+</table>

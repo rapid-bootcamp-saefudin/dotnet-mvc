@@ -16,6 +16,38 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = F:\bootcamp\.net\bootcamp-project\dotnet-mvc\DotNetMVC\DotnetMVC
 build_property._RazorSourceGeneratorDebug = 
 
+[F:/bootcamp/.net/bootcamp-project/dotnet-mvc/DotNetMVC/DotnetMVC/Views/Client/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/bootcamp/.net/bootcamp-project/dotnet-mvc/DotNetMVC/DotnetMVC/Views/Client/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/bootcamp/.net/bootcamp-project/dotnet-mvc/DotNetMVC/DotnetMVC/Views/Client/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/bootcamp/.net/bootcamp-project/dotnet-mvc/DotNetMVC/DotnetMVC/Views/Client/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/bootcamp/.net/bootcamp-project/dotnet-mvc/DotNetMVC/DotnetMVC/Views/Division/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGl2aXNpb25cQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/bootcamp/.net/bootcamp-project/dotnet-mvc/DotNetMVC/DotnetMVC/Views/Division/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGl2aXNpb25cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/bootcamp/.net/bootcamp-project/dotnet-mvc/DotNetMVC/DotnetMVC/Views/Division/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGl2aXNpb25cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/bootcamp/.net/bootcamp-project/dotnet-mvc/DotNetMVC/DotnetMVC/Views/Division/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGl2aXNpb25cTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/bootcamp/.net/bootcamp-project/dotnet-mvc/DotNetMVC/DotnetMVC/Views/Employee/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQWRkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -94,6 +126,22 @@ build_metadata.AdditionalFiles.CssScope =
 
 [F:/bootcamp/.net/bootcamp-project/dotnet-mvc/DotNetMVC/DotnetMVC/Views/Product/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/bootcamp/.net/bootcamp-project/dotnet-mvc/DotNetMVC/DotnetMVC/Views/Project/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/bootcamp/.net/bootcamp-project/dotnet-mvc/DotNetMVC/DotnetMVC/Views/Project/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/bootcamp/.net/bootcamp-project/dotnet-mvc/DotNetMVC/DotnetMVC/Views/Project/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/bootcamp/.net/bootcamp-project/dotnet-mvc/DotNetMVC/DotnetMVC/Views/Project/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [F:/bootcamp/.net/bootcamp-project/dotnet-mvc/DotNetMVC/DotnetMVC/Views/Shared/Error.cshtml]
